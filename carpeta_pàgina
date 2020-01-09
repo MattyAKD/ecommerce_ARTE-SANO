@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ARTE-SANO</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+</head>
+<body>
+	<nav class="nav">
+		<h1>ARTE-SANO</h1>
+		<ul>
+			<li>
+				GALERÍA
+			</li>
+			<li>
+				INFORMACIÓN
+			</li>
+			<li>
+				HISTORIA
+			</li>
+			<li>
+				CONTACTO
+			</li>
+		</ul>
+	</nav>
+	<section>
+		<article>
+			<div class="articulo">
+				<div class="ilustrativo"><img src="C:\Users\mdelgado\Desktop\Nueva carpeta (2)\ecommerce-master\img\abstracto.jpg" width="400" height="140">
+				</div>
+				<div class="descripcion">
+					<h3>ABSTRACTO</h3>
+				</div>
+			</div>
+		</article>
+		<article>
+			<div class="articulo">
+				<div class="ilustrativo"><img src="C:\Users\mdelgado\Desktop\Nueva carpeta (2)\ecommerce-master\img\contemporaneo.jpg" width="400" height="140">
+					
+				</div>
+				<div class="descripcion">
+					<h3>CONTEMPORÁNEO</h3>
+				</div>
+			</div>
+		</article>
+		<article>
+			<div class="articulo">
+				<div class="ilustrativo"><img src="C:\Users\mdelgado\Desktop\Nueva carpeta (2)\ecommerce-master\img\impresionismo.jpg" width="400" height="140">
+					
+				</div>
+				<div class="descripcion">
+					<h3>IMPRESIONISMO</h3>
+				</div>
+			</div>
+		</article>
+		<article>
+			<div class="articulo">
+				<div class="ilustrativo"><img src="C:\Users\mdelgado\Desktop\Nueva carpeta (2)\ecommerce-master\img\expresionismo.jpg" width="400" height="140">
+				</div>
+				<div class="descripcion">
+					<h3>EXPRESIONISMO</h3>
+				</div>
+			</div>
+		</article>
+		<article>
+			<div class="articulo">
+				<div class="ilustrativo"><img src="C:\Users\mdelgado\Desktop\Nueva carpeta (2)\ecommerce-master\img\surrealismo.jpg" width="400" height="140">
+					
+				</div>
+				<div class="descripcion"> 
+					<h3>SURREALISMO</h3>
+				</div>
+			</div>
+		</article>
+		<article>
+			<div class="articulo">
+				<div class="ilustrativo"><img src="C:\Users\mdelgado\Desktop\Nueva carpeta (2)\ecommerce-master\img\realismo.jpg" width="400" height="140">
+					
+				</div>
+				<div class="descripcion">
+					<a href="C:\Users\mdelgado\Desktop\Nueva carpeta (2)\ecommerce-master\realismo.html"><h3>REALISMO</h3></a>
+				</div>
+			</div>
+		</article>
+	</section>
+</body>
+</html>
